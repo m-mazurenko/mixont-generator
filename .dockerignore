@@ -1,0 +1,12 @@
+.idea/
+.github/
+build/
+node_modules/
+.gitignore
+Dockerfile
+function.zip
+LICENSE
+logo.png
+package-lock.json
+README.md
+yarn.lock
